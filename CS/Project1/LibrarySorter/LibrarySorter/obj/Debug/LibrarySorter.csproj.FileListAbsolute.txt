@@ -1,0 +1,6 @@
+C:\Users\Саша\source\repos\LibrarySorter\LibrarySorter\bin\Debug\LibrarySorter.dll
+C:\Users\Саша\source\repos\LibrarySorter\LibrarySorter\bin\Debug\LibrarySorter.pdb
+C:\Users\Саша\source\repos\LibrarySorter\LibrarySorter\obj\Debug\LibrarySorter.csproj.AssemblyReference.cache
+C:\Users\Саша\source\repos\LibrarySorter\LibrarySorter\obj\Debug\LibrarySorter.csproj.CoreCompileInputs.cache
+C:\Users\Саша\source\repos\LibrarySorter\LibrarySorter\obj\Debug\LibrarySorter.dll
+C:\Users\Саша\source\repos\LibrarySorter\LibrarySorter\obj\Debug\LibrarySorter.pdb

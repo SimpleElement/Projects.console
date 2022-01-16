@@ -1,0 +1,7 @@
+C:\Users\Саша\source\repos\WordCounterWCF_service\WordCounterWCF_service\obj\Debug\WordCounterWCF_service.csproj.AssemblyReference.cache
+C:\Users\Саша\source\repos\WordCounterWCF_service\WordCounterWCF_service\obj\Debug\WordCounterWCF_service.csproj.CoreCompileInputs.cache
+C:\Users\Саша\source\repos\WordCounterWCF_service\WordCounterWCF_service\bin\WordCounterWCF_service.dll.config
+C:\Users\Саша\source\repos\WordCounterWCF_service\WordCounterWCF_service\bin\WordCounterWCF_service.dll
+C:\Users\Саша\source\repos\WordCounterWCF_service\WordCounterWCF_service\bin\WordCounterWCF_service.pdb
+C:\Users\Саша\source\repos\WordCounterWCF_service\WordCounterWCF_service\obj\Debug\WordCounterWCF_service.dll
+C:\Users\Саша\source\repos\WordCounterWCF_service\WordCounterWCF_service\obj\Debug\WordCounterWCF_service.pdb
